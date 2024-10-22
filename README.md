@@ -49,7 +49,6 @@ Password: 12345678
 5. After login employee show only their todo task list
 6. Employee can status update pending to complete
 7.  If employee have access permission from admin then they can create or assign todo task
-generate readme file  for github
 
 
 
