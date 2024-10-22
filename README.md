@@ -32,7 +32,6 @@ Follow these steps to get your application up and running:
     ```bash
    php artisan serve
 10. Access the application at:
-    ```bash
    http://127.0.0.1:8000
 
 
