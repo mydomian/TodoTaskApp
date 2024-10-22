@@ -19,7 +19,7 @@
                                 <th>Email</th>
                                 <th>Phone</th>
                                 <th>Address</th>
-                                <th>Access Code</th>
+                                <th>Password</th>
                                 <th>Action</th>
                             </tr>
                         </thead>
