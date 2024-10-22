@@ -9,3 +9,6 @@ Follow these steps to get your application up and running:
 1. Clone the repository:
    ```bash
    git clone https://github.com/mydomain/TodoTaskApp.git
+
+   cd TodoTaskApp
+
